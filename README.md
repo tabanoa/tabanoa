@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Manjot Sidhuu
+### Hi there 👋 I'm Manjot Sidhu
 ## I am a Fullstack Developer and tech enthusiast
 
 - 🔭 I’m currently working with ReactJS, React Native, Node and Express to build a MERN Stack App
