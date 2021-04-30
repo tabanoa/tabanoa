@@ -1,15 +1,11 @@
 ### Hi there 👋 I'm Manjot Sidhuu
-## I am a Software Developer and tech enthusiast
+## I am a Fullstack Developer and tech enthusiast
 
-- 🔭 I’m currently working on perfecting my skills in Web and Mobile development in ReactJS, React Native and Swift
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working with ReactJS, React Native, Node and Express to build a MERN Stack App
+- 🌱 I’m currently learning how to build a React Native Apps
+- 📫 How to reach me: manjot.sidhuu98@gmail.com
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: ...
--->
+
 
 ### My skills:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
